@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   sv-llm:
   - apiVersion: v2
+    appVersion: 1.20.2
+    created: "2024-10-22T13:45:17.823219873Z"
+    description: A Helm chart for sv-llm
+    digest: 579ccea4904873669deedd2dd8f2d8eeb211a89472890de91dcfe6b9689b885f
+    name: sv-llm
+    type: application
+    urls:
+    - https://github.com/mlhaunsc-semvox/helm-charts/releases/download/sv-llm-0.2.0/sv-llm-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2024-10-22T13:08:30.441278434Z"
     description: A Helm chart for sv-llm
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/mlhaunsc-semvox/helm-charts/releases/download/sv-llm-0.1.2/sv-llm-0.1.2.tgz
     version: 0.1.2
-generated: "2024-10-22T13:08:30.44129219Z"
+generated: "2024-10-22T13:45:17.823235553Z"
